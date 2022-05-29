@@ -1,3 +1,3 @@
 # SoftUni-JS-Fundamentals
-JS Fundamentals - 01
+JS Fundamentals 
 I will upload my tasks from SoftUni here :)
